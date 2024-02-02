@@ -1,0 +1,4 @@
+[bot]
+TOKEN = xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx
+OWNER = 0000000000000000000
+COMMAND_PREFIX = "/"
